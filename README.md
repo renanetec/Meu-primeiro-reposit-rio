@@ -1,4 +1,4 @@
-# Meu-primeiro-repositrio
+# Meu-primeiro-repositório
 repositório para as aulas de dev C#
 
 
